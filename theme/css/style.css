@@ -54,7 +54,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: Helvetica;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
     font-weight: 700;
     line-height: 1.35;
     margin-bottom: 0.5rem;
@@ -165,7 +165,7 @@ Common Styles
 }
 
 .text-color {
-  color: #cc302b;
+    color: #5DAEC1;
 }
 
 /*-------------------
@@ -196,9 +196,9 @@ Common Styles
   background: #385777;
 }
 .btn-main:hover {
-  background: #cc302b;
-  color: #fff;
-  border-color: #cc302b;
+    background: #cc302b;
+    color: #fff;
+    border-color: #5DAEC1;
 }
 
 .btn-main-2 {
@@ -242,9 +242,9 @@ a {
 }
 
 a:hover, a:focus {
-  outline: none;
-  text-decoration: none;
-  color: #cc302b;
+    outline: none;
+    text-decoration: none;
+    color: #EDEDED;
 }
 
 .border-top {
@@ -435,10 +435,10 @@ PAGE BANNER
 }
 
 h1 {
-  font-size: 60px;
-  line-height: 70px;
-  color: #263b5e;
-  font-weight: 600;
+    font-size: 60px;
+    line-height: 70px;
+    color: #1E3D70;
+    font-weight: 600;
 }
 
 .main-banner {
